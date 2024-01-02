@@ -64,7 +64,8 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 - Dodanie tablicy z najlepszymi wynikami.
 
 ## Podziękowania
-- Projekt został wykonany przez @Pawgni i Dawid Krejer
+- Projekt został wykonany przez @Pawgni i @DawidKrejer
 
 ## Kontakt
 Stworzone przez [@Pawgni](https://github.com/Pawgni)
+                [@DawidKrejer](https://github.com/DawidKrejer)
